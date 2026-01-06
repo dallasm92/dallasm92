@@ -4,6 +4,17 @@ Entry-level IT / Help Desk candidate building real-world troubleshooting skills 
 
 📍 Seminole, FL  
 🎯 Target roles: IT Support / Help Desk / Desktop Support  
+## Contact
+- LinkedIn: https://www.linkedin.com/in/dallas-morison-8abb22157/
+- Email: dallasm92@gmail.com
+
+## Skills demonstrated in this portfolio
+- Troubleshooting: DNS, connectivity, auth/file access basics
+- Windows 11 + Windows Server fundamentals
+- Linux fundamentals (SSH, permissions, networking basics)
+- Virtualization (Hyper-V)
+- Documentation that mirrors real IT ticket work :contentReference[oaicite:19]{index=19}
+
 💻 Focus: Windows 11, basic networking (DNS/DHCP), Linux fundamentals, virtualization (Hyper-V)
 
 ---
