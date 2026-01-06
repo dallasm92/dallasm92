@@ -13,8 +13,8 @@ Entry-level IT / Help Desk candidate building real-world troubleshooting skills 
 - Windows 11 + Windows Server fundamentals
 - Linux fundamentals (SSH, permissions, networking basics)
 - Virtualization (Hyper-V)
-- Documentation that mirrors real IT ticket work :contentReference[oaicite:19]{index=19}
-
+- Documentation that mirrors real IT ticket work
+  
 💻 Focus: Windows 11, basic networking (DNS/DHCP), Linux fundamentals, virtualization (Hyper-V)
 
 ---
