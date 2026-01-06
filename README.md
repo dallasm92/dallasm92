@@ -8,6 +8,10 @@ Entry-level IT / Help Desk candidate building real-world troubleshooting skills 
 - LinkedIn: https://www.linkedin.com/in/dallas-morison-8abb22157/
 - Email: dallasm92@gmail.com
 
+## Certifications & training
+- Google IT Support Professional Certificate (Coursera) — Completed
+- Microsoft IT Support Specialist (Coursera) — In progress
+
 ## Skills demonstrated in this portfolio
 - Troubleshooting: DNS, connectivity, auth/file access basics
 - Windows 11 + Windows Server fundamentals
