@@ -6,7 +6,7 @@ Entry-level IT / Help Desk candidate building real-world troubleshooting skills 
 🎯 Target roles: IT Support / Help Desk / Desktop Support  
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/dallas-morison-8abb22157/
-- Email: dallasm92@gmail.com
+- Email: dallas.morison.lab@gmail.com
 
 ## Certifications & training
 - Google IT Support Professional Certificate (Coursera) — Completed
