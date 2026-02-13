@@ -27,6 +27,7 @@ Target roles: IT Support, Help Desk, Desktop Support
 
 ## Portfolio Projects
 - IT Support Labs (primary portfolio): https://github.com/dallasm92/it-support-labs
+- AI-Assisted Home Lab Operations (automation + security + runbooks): https://github.com/dallasm92/ai-assisted-home-lab-operations
 - Home Lab Overview: https://github.com/dallasm92/home-lab-overview
 - AD Lab (Windows Server 2022): https://github.com/dallasm92/ad-lab-windows-server-2022
 - Main PC Build and Validation: https://github.com/dallasm92/pc-build-main-pc
