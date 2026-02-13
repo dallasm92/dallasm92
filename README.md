@@ -32,6 +32,8 @@ Target roles: IT Support, Help Desk, Desktop Support
 - Main PC Build and Validation: https://github.com/dallasm92/pc-build-main-pc
 - AI-Assisted IT Support Workflows: https://github.com/dallasm92/ai-assisted-it-support
 - Resume Support Map (resume claims -> direct proof): [resume-support-map.md](resume-support-map.md)
+- STAR Interview Cheat Sheet: [star-interview-cheatsheet.md](star-interview-cheatsheet.md)
+- Resume Bullets (IT Support): [resume-bullets-it-support.md](resume-bullets-it-support.md)
 
 ## Evidence of Hands-On Work
 - 8 ticket-style labs currently published in `it-support-labs`
