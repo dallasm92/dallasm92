@@ -1,6 +1,7 @@
 # Dallas Morison
 
 Entry-level IT Support candidate focused on practical troubleshooting, clear documentation, and repeatable problem-solving.
+Last reviewed: February 13, 2026
 
 Location: Seminole, FL  
 Target roles: IT Support, Help Desk, Desktop Support
