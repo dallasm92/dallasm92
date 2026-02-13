@@ -31,10 +31,11 @@ Target roles: IT Support, Help Desk, Desktop Support
 - AD Lab (Windows Server 2022): https://github.com/dallasm92/ad-lab-windows-server-2022
 - Main PC Build and Validation: https://github.com/dallasm92/pc-build-main-pc
 - AI-Assisted IT Support Workflows: https://github.com/dallasm92/ai-assisted-it-support
+- Resume Support Map (resume claims -> direct proof): [resume-support-map.md](resume-support-map.md)
 
 ## Evidence of Hands-On Work
-- 7 ticket-style labs currently published in `it-support-labs`
-- Cross-platform troubleshooting coverage: Windows labs (3), Linux labs (3), Networking labs (1)
+- 8 ticket-style labs currently published in `it-support-labs`
+- Cross-platform troubleshooting coverage: Windows labs (4), Linux labs (3), Networking labs (1)
 
 ## Current Focus
 - Building deeper Active Directory and Windows endpoint troubleshooting reps
