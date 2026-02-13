@@ -1,46 +1,42 @@
 # Dallas Morison
 
-Entry-level IT / Help Desk candidate building real-world troubleshooting skills through hands-on labs, documentation, and a security-conscious home lab.
+Entry-level IT Support candidate focused on practical troubleshooting, clear documentation, and repeatable problem-solving.
 
-📍 Seminole, FL  
-🎯 Target roles: IT Support / Help Desk / Desktop Support  
+Location: Seminole, FL  
+Target roles: IT Support, Help Desk, Desktop Support
+
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/dallas-morison-8abb22157/
 - Email: dallas.morison.lab@gmail.com
 
-## Certifications & training
-- Google IT Support Professional Certificate (Coursera) — Completed
-- Microsoft IT Support Specialist (Coursera) — In progress
+## Why I’m Job-Ready
+- I document technical work in ticket format: issue, environment, troubleshooting steps, resolution, and prevention.
+- I practice across Windows, Linux, and networking in a real home lab.
+- I focus on support fundamentals employers need: incident handling, root-cause analysis, and user-facing communication.
 
-## Skills demonstrated in this portfolio
-- Troubleshooting: DNS, connectivity, auth/file access basics
-- Windows 11 + Windows Server fundamentals
-- Linux fundamentals (SSH, permissions, networking basics)
-- Virtualization (Hyper-V)
-- Documentation that mirrors real IT ticket work
-  
-💻 Focus: Windows 11, basic networking (DNS/DHCP), Linux fundamentals, virtualization (Hyper-V)
+## Certifications and Training
+- Google IT Support Professional Certificate (Coursera) - Completed
+- Microsoft IT Support Specialist (Coursera) - In Progress
 
----
+## Technical Skills
+- Operating Systems: Windows 11, Windows Server 2022, Linux (Ubuntu, Linux Mint)
+- Networking: DNS, DHCP basics, connectivity troubleshooting, browser DNS behavior (DoH), Pi-hole
+- Systems: Active Directory fundamentals, file shares, mapped drives, SSH, permissions
+- Virtualization and Lab Work: Hyper-V, Docker, CasaOS, Raspberry Pi services
+- Workflow: Git/GitHub, ticket-style documentation, structured troubleshooting
 
-## Portfolio Highlights
+## Portfolio Projects
+- IT Support Labs (primary portfolio): https://github.com/dallasm92/it-support-labs
+- Home Lab Overview: https://github.com/dallasm92/home-lab-overview
+- AD Lab (Windows Server 2022): https://github.com/dallasm92/ad-lab-windows-server-2022
+- Main PC Build and Validation: https://github.com/dallasm92/pc-build-main-pc
+- AI-Assisted IT Support Workflows: https://github.com/dallasm92/ai-assisted-it-support
 
-### 🔧 IT Support Labs
-Ticket-style troubleshooting labs written like real help desk work.  
-Issue → Environment → Troubleshooting → Resolution → Prevention  
-👉 https://github.com/dallasm92/it-support-labs
+## Evidence of Hands-On Work
+- 7 ticket-style labs currently published in `it-support-labs`
+- Cross-platform troubleshooting coverage: Windows labs (3), Linux labs (3), Networking labs (1)
 
-### 🧪 Home Lab Overview
-Documented home lab used for learning networking, virtualization, and system administration.  
-👉 https://github.com/dallasm92/home-lab-overview
-
-### 🖥️ PC Build – MAIN-PC
-Research, build, validation, and OS setup for a Windows 11 Pro Hyper-V host.  
-👉 https://github.com/dallasm92/pc-build-main-pc
-
----
-
-## What I’m Practicing Right Now
-- Diagnosing DNS and network connectivity issues
-- Windows and Linux troubleshooting workflows
-- Clear technical documentation and root-cause analysis
+## Current Focus
+- Building deeper Active Directory and Windows endpoint troubleshooting reps
+- Strengthening Linux administration and network diagnostics workflow
+- Expanding the lab portfolio with more real-world support scenarios and post-incident prevention notes
