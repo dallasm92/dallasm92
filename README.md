@@ -17,7 +17,9 @@ Target roles: IT Support, Help Desk, Desktop Support
 
 ## Certifications and Training
 - Google IT Support Professional Certificate (Coursera) - Completed
-- Microsoft IT Support Specialist (Coursera) - In Progress
+- Microsoft IT Support Specialist (Coursera) - Completed
+- CompTIA Network+ - In Progress
+- Practical Windows PowerShell Scripting (Coursera) - In Progress
 
 ## Technical Skills
 - Operating Systems: Windows 11, Windows Server 2022, Linux (Ubuntu, Linux Mint)
