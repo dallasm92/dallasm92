@@ -1,7 +1,7 @@
 # Dallas Morison
 
-Entry-level IT Support candidate focused on practical troubleshooting, clear documentation, and repeatable problem-solving.
-Last reviewed: February 13, 2026
+Entry-level IT Support candidate with hands-on labs in troubleshooting, Windows administration, networking, and security-conscious home lab operations.
+Last reviewed: March 16, 2026
 
 Location: Seminole, FL  
 Target roles: IT Support, Help Desk, Desktop Support
@@ -9,6 +9,16 @@ Target roles: IT Support, Help Desk, Desktop Support
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/dallas-morison-8abb22157/
 - Email: dallas.morison.lab@gmail.com
+
+## Start Here
+- [IT Support Labs](https://github.com/dallasm92/it-support-labs) - ticket-style troubleshooting across Windows, Linux, and networking
+- [Active Directory Lab](https://github.com/dallasm92/ad-lab-windows-server-2022) - Windows Server 2022, AD DS, DNS, domain join, and group-policy fundamentals
+- [Main PC Build and Validation](https://github.com/dallasm92/pc-build-main-pc) - endpoint build, provisioning, Hyper-V readiness, and validation
+
+## Core Strengths
+- Structured troubleshooting with clear issue isolation, validation, resolution, and prevention notes
+- Cross-platform support fundamentals across Windows 11, Windows Server 2022, Linux, networking, and virtualization
+- Documentation discipline that turns hands-on work into reviewable portfolio evidence
 
 ## Why I’m Job-Ready
 - I document technical work in ticket format: issue, environment, troubleshooting steps, resolution, and prevention.
@@ -27,6 +37,17 @@ Target roles: IT Support, Help Desk, Desktop Support
 - Systems: Active Directory fundamentals, file shares, mapped drives, SSH, permissions
 - Virtualization and Lab Work: Hyper-V, Docker, CasaOS, Raspberry Pi services
 - Workflow: Git/GitHub, ticket-style documentation, structured troubleshooting
+
+## Skills With Direct Proof
+- Troubleshooting workflow:
+  - [IT Support Labs](https://github.com/dallasm92/it-support-labs)
+- Active Directory and Windows Server fundamentals:
+  - [Active Directory Lab](https://github.com/dallasm92/ad-lab-windows-server-2022)
+- Endpoint build, provisioning, and validation:
+  - [PC Build - MAIN-PC](https://github.com/dallasm92/pc-build-main-pc)
+- Linux, monitoring, and operations discipline:
+  - [Home Lab Overview](https://github.com/dallasm92/home-lab-overview)
+  - [AI-Assisted Home Lab Operations](https://github.com/dallasm92/ai-assisted-home-lab-operations)
 
 ## Portfolio Projects
 - IT Support Labs (primary portfolio): https://github.com/dallasm92/it-support-labs
