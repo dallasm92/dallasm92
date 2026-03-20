@@ -1,7 +1,7 @@
 # Dallas Morison
 
 Entry-level IT Support candidate with hands-on labs in troubleshooting, Windows administration, networking, and security-conscious home lab operations.
-Last reviewed: March 16, 2026
+Last reviewed: March 20, 2026
 
 Location: Seminole, FL  
 Target roles: IT Support, Help Desk, Desktop Support
@@ -49,6 +49,17 @@ Target roles: IT Support, Help Desk, Desktop Support
   - [Home Lab Overview](https://github.com/dallasm92/home-lab-overview)
   - [AI-Assisted Home Lab Operations](https://github.com/dallasm92/ai-assisted-home-lab-operations)
 
+## Best Evidence Inside The Homelab Repos
+- Architecture and networking patterns:
+  - https://github.com/dallasm92/home-lab-overview/blob/main/docs/firewall-appliance-selection-notes.md
+  - https://github.com/dallasm92/home-lab-overview/blob/main/docs/virtual-firewall-vlan-lab-pattern.md
+- Monitoring and operator workflow:
+  - https://github.com/dallasm92/ai-assisted-home-lab-operations/blob/main/docs/dashboard-and-host-observability-pattern.md
+  - https://github.com/dallasm92/ai-assisted-home-lab-operations/blob/main/docs/immutable-ops-and-incident-automation.md
+- Resilience and migration discipline:
+  - https://github.com/dallasm92/ai-assisted-home-lab-operations/blob/main/docs/backup-restore-and-resilience-pattern.md
+  - https://github.com/dallasm92/ai-assisted-home-lab-operations/blob/main/docs/phased-service-cutover-pattern.md
+
 ## Portfolio Projects
 - IT Support Labs (primary portfolio): https://github.com/dallasm92/it-support-labs
 - AI-Assisted Home Lab Operations (automation + security + runbooks): https://github.com/dallasm92/ai-assisted-home-lab-operations
@@ -66,3 +77,4 @@ Target roles: IT Support, Help Desk, Desktop Support
 - Building deeper Active Directory and Windows endpoint troubleshooting reps
 - Strengthening Linux administration and network diagnostics workflow
 - Expanding the lab portfolio with more real-world support scenarios and post-incident prevention notes
+- Keeping the homelab portfolio public-safe by publishing sanitized workflow notes while retaining raw screenshots and admin UI captures as private-only evidence

@@ -34,6 +34,22 @@ This page maps resume claims to public GitHub evidence for fast recruiter and hi
   - Evidence: IT support labs index + format consistency  
     https://github.com/dallasm92/it-support-labs
 
+- Demonstrates operational maturity in monitoring, resilience, and change control.
+  - Evidence: Dashboard and host observability pattern  
+    https://github.com/dallasm92/ai-assisted-home-lab-operations/blob/main/docs/dashboard-and-host-observability-pattern.md
+  - Evidence: Backup, restore, and resilience pattern  
+    https://github.com/dallasm92/ai-assisted-home-lab-operations/blob/main/docs/backup-restore-and-resilience-pattern.md
+  - Evidence: Immutable ops and incident automation  
+    https://github.com/dallasm92/ai-assisted-home-lab-operations/blob/main/docs/immutable-ops-and-incident-automation.md
+  - Evidence: Phased service cutover pattern  
+    https://github.com/dallasm92/ai-assisted-home-lab-operations/blob/main/docs/phased-service-cutover-pattern.md
+
+- Explains homelab architecture and segmented-network thinking in public-safe form.
+  - Evidence: Firewall appliance selection notes  
+    https://github.com/dallasm92/home-lab-overview/blob/main/docs/firewall-appliance-selection-notes.md
+  - Evidence: Virtual firewall VLAN lab pattern  
+    https://github.com/dallasm92/home-lab-overview/blob/main/docs/virtual-firewall-vlan-lab-pattern.md
+
 ## Portfolio Entry Points
 
 - Profile README (top-level overview):  
