@@ -15,6 +15,7 @@ Target roles: IT Support, Help Desk, Desktop Support
 - [Active Directory Lab](https://github.com/dallasm92/ad-lab-windows-server-2022) - Windows Server 2022, AD DS, DNS, domain join, and group-policy fundamentals
 - [Main PC Build and Validation](https://github.com/dallasm92/pc-build-main-pc) - endpoint build, provisioning, Hyper-V readiness, and validation
 - [Azure Blob Storage Lab](https://github.com/dallasm92/azure-lab-1-blob-storage) - Azure resource deployment, blob access validation, SAS troubleshooting, and lifecycle management
+- [Azure Virtual Network and NSG Lab](https://github.com/dallasm92/azure-lab-2-virtual-network-nsg) - Azure VNet design, subnet segmentation, and network security group rule configuration
 
 ## Core Strengths
 - Structured troubleshooting with clear issue isolation, validation, resolution, and prevention notes
@@ -48,6 +49,8 @@ Target roles: IT Support, Help Desk, Desktop Support
   - [PC Build - MAIN-PC](https://github.com/dallasm92/pc-build-main-pc)
 - Cloud storage fundamentals and access-control troubleshooting:
   - [Azure Blob Storage Lab](https://github.com/dallasm92/azure-lab-1-blob-storage)
+- Cloud networking fundamentals and subnet security design:
+  - [Azure Virtual Network and NSG Lab](https://github.com/dallasm92/azure-lab-2-virtual-network-nsg)
 - Linux, monitoring, and operations discipline:
   - [Home Lab Overview](https://github.com/dallasm92/home-lab-overview)
   - [AI-Assisted Home Lab Operations](https://github.com/dallasm92/ai-assisted-home-lab-operations)
@@ -66,6 +69,7 @@ Target roles: IT Support, Help Desk, Desktop Support
 ## Portfolio Projects
 - IT Support Labs (primary portfolio): https://github.com/dallasm92/it-support-labs
 - Azure Blob Storage Lab: https://github.com/dallasm92/azure-lab-1-blob-storage
+- Azure Virtual Network and NSG Lab: https://github.com/dallasm92/azure-lab-2-virtual-network-nsg
 - AI-Assisted Home Lab Operations (automation + security + runbooks): https://github.com/dallasm92/ai-assisted-home-lab-operations
 - Home Lab Overview: https://github.com/dallasm92/home-lab-overview
 - AD Lab (Windows Server 2022): https://github.com/dallasm92/ad-lab-windows-server-2022
