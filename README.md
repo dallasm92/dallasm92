@@ -17,6 +17,7 @@ Target roles: IT Support, Help Desk, Desktop Support
 - [Windows Host Networking, WSL, and VLAN Validation Lab](https://github.com/dallasm92/windows-hyperv-wsl-network-lab) - switch VLAN review, Hyper-V host networking, WSL setup, and layered connectivity troubleshooting
 - [Azure Blob Storage Lab](https://github.com/dallasm92/azure-lab-1-blob-storage) - Azure resource deployment, blob access validation, SAS troubleshooting, and lifecycle management
 - [Azure Virtual Network and NSG Lab](https://github.com/dallasm92/azure-lab-2-virtual-network-nsg) - Azure VNet design, subnet segmentation, and network security group rule configuration
+- [Azure RBAC Lab](https://github.com/dallasm92/azure-rbac-lab) - Microsoft Entra group-based Reader and Contributor assignments with resource-group and storage-account scope validation
 
 ## Core Strengths
 - Structured troubleshooting with clear issue isolation, validation, resolution, and prevention notes
@@ -54,6 +55,8 @@ Target roles: IT Support, Help Desk, Desktop Support
   - [Azure Blob Storage Lab](https://github.com/dallasm92/azure-lab-1-blob-storage)
 - Cloud networking fundamentals and subnet security design:
   - [Azure Virtual Network and NSG Lab](https://github.com/dallasm92/azure-lab-2-virtual-network-nsg)
+- Azure access control and least-privilege role assignment:
+  - [Azure RBAC Lab](https://github.com/dallasm92/azure-rbac-lab)
 - Linux, monitoring, and operations discipline:
   - [Home Lab Overview](https://github.com/dallasm92/home-lab-overview)
   - [AI-Assisted Home Lab Operations](https://github.com/dallasm92/ai-assisted-home-lab-operations)
@@ -74,6 +77,7 @@ Target roles: IT Support, Help Desk, Desktop Support
 - Windows Host Networking, WSL, and VLAN Validation Lab: https://github.com/dallasm92/windows-hyperv-wsl-network-lab
 - Azure Blob Storage Lab: https://github.com/dallasm92/azure-lab-1-blob-storage
 - Azure Virtual Network and NSG Lab: https://github.com/dallasm92/azure-lab-2-virtual-network-nsg
+- Azure RBAC Lab: https://github.com/dallasm92/azure-rbac-lab
 - AI-Assisted Home Lab Operations (automation + security + runbooks): https://github.com/dallasm92/ai-assisted-home-lab-operations
 - Home Lab Overview: https://github.com/dallasm92/home-lab-overview
 - AD Lab (Windows Server 2022): https://github.com/dallasm92/ad-lab-windows-server-2022
