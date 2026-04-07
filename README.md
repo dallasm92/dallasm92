@@ -1,7 +1,7 @@
 # Dallas Morison
 
 Entry-level IT Support candidate with hands-on labs in troubleshooting, Windows administration, networking, and security-conscious home lab operations.
-Last reviewed: March 20, 2026
+Last reviewed: April 7, 2026
 
 Location: Seminole, FL  
 Target roles: IT Support, Help Desk, Desktop Support
@@ -14,6 +14,7 @@ Target roles: IT Support, Help Desk, Desktop Support
 - [IT Support Labs](https://github.com/dallasm92/it-support-labs) - ticket-style troubleshooting across Windows, Linux, and networking
 - [Active Directory Lab](https://github.com/dallasm92/ad-lab-windows-server-2022) - Windows Server 2022, AD DS, DNS, domain join, and group-policy fundamentals
 - [Main PC Build and Validation](https://github.com/dallasm92/pc-build-main-pc) - endpoint build, provisioning, Hyper-V readiness, and validation
+- [Azure Blob Storage Lab](https://github.com/dallasm92/azure-lab-1-blob-storage) - Azure resource deployment, blob access validation, SAS troubleshooting, and lifecycle management
 
 ## Core Strengths
 - Structured troubleshooting with clear issue isolation, validation, resolution, and prevention notes
@@ -45,6 +46,8 @@ Target roles: IT Support, Help Desk, Desktop Support
   - [Active Directory Lab](https://github.com/dallasm92/ad-lab-windows-server-2022)
 - Endpoint build, provisioning, and validation:
   - [PC Build - MAIN-PC](https://github.com/dallasm92/pc-build-main-pc)
+- Cloud storage fundamentals and access-control troubleshooting:
+  - [Azure Blob Storage Lab](https://github.com/dallasm92/azure-lab-1-blob-storage)
 - Linux, monitoring, and operations discipline:
   - [Home Lab Overview](https://github.com/dallasm92/home-lab-overview)
   - [AI-Assisted Home Lab Operations](https://github.com/dallasm92/ai-assisted-home-lab-operations)
@@ -62,6 +65,7 @@ Target roles: IT Support, Help Desk, Desktop Support
 
 ## Portfolio Projects
 - IT Support Labs (primary portfolio): https://github.com/dallasm92/it-support-labs
+- Azure Blob Storage Lab: https://github.com/dallasm92/azure-lab-1-blob-storage
 - AI-Assisted Home Lab Operations (automation + security + runbooks): https://github.com/dallasm92/ai-assisted-home-lab-operations
 - Home Lab Overview: https://github.com/dallasm92/home-lab-overview
 - AD Lab (Windows Server 2022): https://github.com/dallasm92/ad-lab-windows-server-2022
