@@ -14,6 +14,7 @@ Target roles: IT Support, Help Desk, Desktop Support
 - [IT Support Labs](https://github.com/dallasm92/it-support-labs) - ticket-style troubleshooting across Windows, Linux, and networking
 - [Active Directory Lab](https://github.com/dallasm92/ad-lab-windows-server-2022) - Windows Server 2022, AD DS, DNS, domain join, and group-policy fundamentals
 - [Main PC Build and Validation](https://github.com/dallasm92/pc-build-main-pc) - endpoint build, provisioning, Hyper-V readiness, and validation
+- [Windows Host Networking, WSL, and VLAN Validation Lab](https://github.com/dallasm92/windows-hyperv-wsl-network-lab) - switch VLAN review, Hyper-V host networking, WSL setup, and layered connectivity troubleshooting
 - [Azure Blob Storage Lab](https://github.com/dallasm92/azure-lab-1-blob-storage) - Azure resource deployment, blob access validation, SAS troubleshooting, and lifecycle management
 - [Azure Virtual Network and NSG Lab](https://github.com/dallasm92/azure-lab-2-virtual-network-nsg) - Azure VNet design, subnet segmentation, and network security group rule configuration
 
@@ -47,6 +48,8 @@ Target roles: IT Support, Help Desk, Desktop Support
   - [Active Directory Lab](https://github.com/dallasm92/ad-lab-windows-server-2022)
 - Endpoint build, provisioning, and validation:
   - [PC Build - MAIN-PC](https://github.com/dallasm92/pc-build-main-pc)
+- Windows host networking, WSL, and layered connectivity troubleshooting:
+  - [Windows Host Networking, WSL, and VLAN Validation Lab](https://github.com/dallasm92/windows-hyperv-wsl-network-lab)
 - Cloud storage fundamentals and access-control troubleshooting:
   - [Azure Blob Storage Lab](https://github.com/dallasm92/azure-lab-1-blob-storage)
 - Cloud networking fundamentals and subnet security design:
@@ -68,6 +71,7 @@ Target roles: IT Support, Help Desk, Desktop Support
 
 ## Portfolio Projects
 - IT Support Labs (primary portfolio): https://github.com/dallasm92/it-support-labs
+- Windows Host Networking, WSL, and VLAN Validation Lab: https://github.com/dallasm92/windows-hyperv-wsl-network-lab
 - Azure Blob Storage Lab: https://github.com/dallasm92/azure-lab-1-blob-storage
 - Azure Virtual Network and NSG Lab: https://github.com/dallasm92/azure-lab-2-virtual-network-nsg
 - AI-Assisted Home Lab Operations (automation + security + runbooks): https://github.com/dallasm92/ai-assisted-home-lab-operations
