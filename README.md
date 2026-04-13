@@ -1,6 +1,6 @@
 # Dallas Morison
 
-Entry-level IT Support candidate with hands-on labs in troubleshooting, Windows administration, networking, and security-conscious home lab operations.
+Entry-level IT Support candidate building public proof through hands-on labs in troubleshooting, Windows Server, Azure, networking, Linux, and security-conscious homelab operations.
 Last reviewed: April 13, 2026
 
 Location: Seminole, FL  
