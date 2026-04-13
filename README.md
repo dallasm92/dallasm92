@@ -1,7 +1,7 @@
 # Dallas Morison
 
 Entry-level IT Support candidate with hands-on labs in troubleshooting, Windows administration, networking, and security-conscious home lab operations.
-Last reviewed: April 7, 2026
+Last reviewed: April 13, 2026
 
 Location: Seminole, FL  
 Target roles: IT Support, Help Desk, Desktop Support
@@ -15,14 +15,20 @@ Target roles: IT Support, Help Desk, Desktop Support
 - [Active Directory Lab](https://github.com/dallasm92/ad-lab-windows-server-2022) - Windows Server 2022, AD DS, DNS, domain join, and group-policy fundamentals
 - [Main PC Build and Validation](https://github.com/dallasm92/pc-build-main-pc) - endpoint build, provisioning, Hyper-V readiness, and validation
 - [Windows Host Networking, WSL, and VLAN Validation Lab](https://github.com/dallasm92/windows-hyperv-wsl-network-lab) - switch VLAN review, Hyper-V host networking, WSL setup, and layered connectivity troubleshooting
-- [Azure Blob Storage Lab](https://github.com/dallasm92/azure-lab-1-blob-storage) - Azure resource deployment, blob access validation, SAS troubleshooting, and lifecycle management
-- [Azure Virtual Network and NSG Lab](https://github.com/dallasm92/azure-lab-2-virtual-network-nsg) - Azure VNet design, subnet segmentation, and network security group rule configuration
-- [Azure RBAC Lab](https://github.com/dallasm92/azure-rbac-lab) - Microsoft Entra group-based Reader and Contributor assignments with resource-group and storage-account scope validation
+- [Azure Lab Series](#azure-lab-series) - four connected Azure labs covering storage, networking, RBAC, and Linux VM validation
 
 ## Core Strengths
 - Structured troubleshooting with clear issue isolation, validation, resolution, and prevention notes
 - Cross-platform support fundamentals across Windows 11, Windows Server 2022, Linux, networking, and virtualization
 - Documentation discipline that turns hands-on work into reviewable portfolio evidence
+
+## Azure Lab Series
+- [Azure Blob Storage Lab](https://github.com/dallasm92/azure-lab-1-blob-storage) - Blob Storage deployment, private container workflow, SAS troubleshooting, and lifecycle management
+- [Azure Virtual Network and NSG Lab](https://github.com/dallasm92/azure-lab-2-virtual-network-nsg) - VNet segmentation, public/private subnet design, and SSH-focused NSG rule control
+- [Azure RBAC Lab](https://github.com/dallasm92/azure-rbac-lab) - Microsoft Entra group-based Reader and Contributor assignments with scope inheritance validation
+- [Azure Linux VM and Nginx Lab](https://github.com/dallasm92/azure-lab-4-linux-vm-nginx) - Ubuntu VM deployment, SSH key administration, NSG troubleshooting, and Nginx validation
+
+The series is structured to build one layer at a time: storage first, then networking, then access control, then a Linux workload deployed into the earlier network foundation.
 
 ## Why I’m Job-Ready
 - I document technical work in ticket format: issue, environment, troubleshooting steps, resolution, and prevention.
@@ -58,6 +64,8 @@ Target roles: IT Support, Help Desk, Desktop Support
   - [Azure Virtual Network and NSG Lab](https://github.com/dallasm92/azure-lab-2-virtual-network-nsg)
 - Azure access control and least-privilege role assignment:
   - [Azure RBAC Lab](https://github.com/dallasm92/azure-rbac-lab)
+- Azure Linux administration and cloud workload validation:
+  - [Azure Linux VM and Nginx Lab](https://github.com/dallasm92/azure-lab-4-linux-vm-nginx)
 - Linux, monitoring, and operations discipline:
   - [Home Lab Overview](https://github.com/dallasm92/home-lab-overview)
   - [AI-Assisted Home Lab Operations](https://github.com/dallasm92/ai-assisted-home-lab-operations)
@@ -79,6 +87,7 @@ Target roles: IT Support, Help Desk, Desktop Support
 - Azure Blob Storage Lab: https://github.com/dallasm92/azure-lab-1-blob-storage
 - Azure Virtual Network and NSG Lab: https://github.com/dallasm92/azure-lab-2-virtual-network-nsg
 - Azure RBAC Lab: https://github.com/dallasm92/azure-rbac-lab
+- Azure Linux VM and Nginx Lab: https://github.com/dallasm92/azure-lab-4-linux-vm-nginx
 - AI-Assisted Home Lab Operations (automation + security + runbooks): https://github.com/dallasm92/ai-assisted-home-lab-operations
 - Home Lab Overview: https://github.com/dallasm92/home-lab-overview
 - AD Lab (Windows Server 2022): https://github.com/dallasm92/ad-lab-windows-server-2022
