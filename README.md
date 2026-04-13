@@ -28,6 +28,7 @@ Target roles: IT Support, Help Desk, Desktop Support
 - I document technical work in ticket format: issue, environment, troubleshooting steps, resolution, and prevention.
 - I practice across Windows, Linux, and networking in a real home lab.
 - I focus on support fundamentals employers need: incident handling, root-cause analysis, and user-facing communication.
+- I use an evidence-first learning model so training supports portfolio proof instead of replacing it.
 
 ## Certifications and Training
 - Google IT Support Professional Certificate (Coursera) - Completed
@@ -84,6 +85,7 @@ Target roles: IT Support, Help Desk, Desktop Support
 - Main PC Build and Validation: https://github.com/dallasm92/pc-build-main-pc
 - AI-Assisted IT Support Workflows: https://github.com/dallasm92/ai-assisted-it-support
 - Resume Support Map (resume claims -> direct proof): [resume-support-map.md](resume-support-map.md)
+- Evidence-First IT Learning: [evidence-first-it-learning.md](evidence-first-it-learning.md)
 
 ## Evidence of Hands-On Work
 - 8 ticket-style labs currently published in `it-support-labs`
