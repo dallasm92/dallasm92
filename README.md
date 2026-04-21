@@ -11,7 +11,6 @@ Target roles: IT Support, Help Desk, Desktop Support
 - Email: dallas.morison.lab@gmail.com
 
 ## Start Here
-These are the five projects I would send first for an entry-level IT Support, Help Desk, Desktop Support, or junior systems interview.
 
 - [IT Support Labs](https://github.com/dallasm92/it-support-labs) - ticket-style troubleshooting across Windows, Linux, and networking.
 - [Active Directory Lab](https://github.com/dallasm92/ad-lab-windows-server-2022) - Windows Server 2022 domain controller, DNS, Windows 11 domain join, helpdesk user/group validation, and troubleshooting evidence.
