@@ -1,7 +1,7 @@
 # Dallas Morison
 
 Entry-level IT Support candidate building public proof through hands-on labs in troubleshooting, Windows Server, Azure, networking, Linux, and security-conscious homelab operations.
-Last reviewed: April 13, 2026
+Last reviewed: April 21, 2026
 
 Location: Seminole, FL  
 Target roles: IT Support, Help Desk, Desktop Support
@@ -11,13 +11,22 @@ Target roles: IT Support, Help Desk, Desktop Support
 - Email: dallas.morison.lab@gmail.com
 
 ## Start Here
-- [IT Support Labs](https://github.com/dallasm92/it-support-labs) - ticket-style troubleshooting across Windows, Linux, and networking
-- [Azure Lab Series](#azure-lab-series) - four connected Azure labs covering storage, networking, RBAC, and Linux VM validation
-- [Active Directory Lab](https://github.com/dallasm92/ad-lab-windows-server-2022) - Windows Server 2022, AD DS, DNS, domain join, and group-policy fundamentals
-- [GLPI Internal ITSM Lab](https://github.com/dallasm92/glpi-internal-itsm-lab) - internal service deployment, asset tracking, ticket workflow, and backup automation in the homelab
-- [Main PC Build and Validation](https://github.com/dallasm92/pc-build-main-pc) - endpoint build, provisioning, Hyper-V readiness, and validation
-- [Windows Host Networking, WSL, and VLAN Validation Lab](https://github.com/dallasm92/windows-hyperv-wsl-network-lab) - switch VLAN review, Hyper-V host networking, WSL setup, and layered connectivity troubleshooting
-- [Home Lab Overview](https://github.com/dallasm92/home-lab-overview) - sanitized architecture, monitoring, and operations patterns for the broader homelab
+These are the five projects I would send first for an entry-level IT Support, Help Desk, Desktop Support, or junior systems interview.
+
+- [IT Support Labs](https://github.com/dallasm92/it-support-labs) - ticket-style troubleshooting across Windows, Linux, and networking.
+- [Active Directory Lab](https://github.com/dallasm92/ad-lab-windows-server-2022) - Windows Server 2022 domain controller, DNS, Windows 11 domain join, helpdesk user/group validation, and troubleshooting evidence.
+- [GLPI Internal ITSM Lab](https://github.com/dallasm92/glpi-internal-itsm-lab) - internal ITSM deployment with assets, tickets, service catalog, DNS validation, and backup workflow.
+- [Azure Lab Series](#azure-lab-series) - connected Azure labs covering storage, networking, RBAC, and Linux VM validation.
+- [Home Lab Overview](https://github.com/dallasm92/home-lab-overview) - broader architecture, monitoring, DNS, backup, and operations patterns.
+
+## Suggested Pinned Repositories
+
+- `it-support-labs`
+- `ad-lab-windows-server-2022`
+- `glpi-internal-itsm-lab`
+- `azure-lab-1-blob-storage`
+- `azure-lab-2-virtual-network-nsg`
+- `home-lab-overview`
 
 ## Core Strengths
 - Structured troubleshooting with clear issue isolation, validation, resolution, and prevention notes
@@ -30,6 +39,17 @@ Target roles: IT Support, Help Desk, Desktop Support
 - For cloud fundamentals, use the [Azure Lab Series](#azure-lab-series).
 - For internal service rollout, ticketing, and asset-management workflow, use [GLPI Internal ITSM Lab](https://github.com/dallasm92/glpi-internal-itsm-lab).
 - For broader operations and architecture maturity, use [Home Lab Overview](https://github.com/dallasm92/home-lab-overview) and [AI-Assisted Home Lab Operations](https://github.com/dallasm92/ai-assisted-home-lab-operations).
+
+## Hiring Manager Quick View
+
+| Skill area | Best evidence |
+|---|---|
+| Ticket-style troubleshooting | [IT Support Labs](https://github.com/dallasm92/it-support-labs) |
+| Windows Server / Active Directory | [Active Directory Lab](https://github.com/dallasm92/ad-lab-windows-server-2022) |
+| ITSM / help desk workflow | [GLPI Internal ITSM Lab](https://github.com/dallasm92/glpi-internal-itsm-lab) |
+| Azure fundamentals | [Azure Lab Series](#azure-lab-series) |
+| Networking and DNS | [Azure VNet/NSG Lab](https://github.com/dallasm92/azure-lab-2-virtual-network-nsg), [Home Lab Overview](https://github.com/dallasm92/home-lab-overview) |
+| Linux and operations | [AI-Assisted Home Lab Operations](https://github.com/dallasm92/ai-assisted-home-lab-operations), [Lab Maintenance](https://github.com/dallasm92/lab-maintenance) |
 
 ## Azure Lab Series
 - [Azure Blob Storage Lab](https://github.com/dallasm92/azure-lab-1-blob-storage) - Blob Storage deployment, private container workflow, SAS troubleshooting, and lifecycle management
@@ -112,6 +132,8 @@ The series is structured to build one layer at a time: storage first, then netwo
 ## Evidence of Hands-On Work
 - 8 ticket-style labs currently published in `it-support-labs`
 - Cross-platform troubleshooting coverage: Windows labs (4), Linux labs (3), Networking labs (1)
+- Active Directory evidence includes 100+ screenshots across server build, AD DS/DNS, client join, helpdesk group validation, and policy troubleshooting.
+- Azure evidence includes portal screenshots for storage, VNet/NSG, RBAC, and a documented Linux VM/Nginx workflow.
 
 ## Current Focus
 - Building deeper Active Directory and Windows endpoint troubleshooting reps
