@@ -19,6 +19,7 @@ Target roles: IT Support, Help Desk, Desktop Support
 - [Active Directory Lab](https://github.com/dallasm92/ad-lab-windows-server-2022) - Windows Server 2022 domain controller, DNS, Windows 11 domain join, helpdesk user/group validation, and troubleshooting evidence.
 - [GLPI Internal ITSM Lab](https://github.com/dallasm92/glpi-internal-itsm-lab) - internal ITSM deployment with assets, tickets, service catalog, DNS validation, and backup workflow.
 - [GNS3 Networking Fundamentals Lab](https://github.com/dallasm92/gns3-networking-fundamentals-lab) - GNS3 bring-up, switching, ARP, subnetting, and basic routing evidence on a Windows Hyper-V host.
+- [Windows and Networking Sequence](#windows-and-networking-sequence) - connected endpoint, host-networking, and GNS3 routing labs that build from workstation setup into subnet-level troubleshooting.
 - [Azure Lab Series](#azure-lab-series) - connected Azure labs covering storage, networking, RBAC, and Linux VM validation.
 
 ## Suggested Pinned Repositories
@@ -53,6 +54,16 @@ Target roles: IT Support, Help Desk, Desktop Support
 | Azure fundamentals | [Azure Lab Series](#azure-lab-series) |
 | Networking and DNS | [GNS3 Networking Fundamentals Lab](https://github.com/dallasm92/gns3-networking-fundamentals-lab), [Azure VNet/NSG Lab](https://github.com/dallasm92/azure-lab-2-virtual-network-nsg), [Home Lab Overview](https://github.com/dallasm92/home-lab-overview) |
 | Linux and operations | [AI-Assisted Home Lab Operations](https://github.com/dallasm92/ai-assisted-home-lab-operations), [Lab Maintenance](https://github.com/dallasm92/lab-maintenance) |
+
+## Windows and Networking Sequence
+![Windows and Networking Sequence](assets/windows-networking-sequence.png)
+
+- [Lab 1: PC Build - MAIN-PC](https://github.com/dallasm92/pc-build-main-pc) - Windows 11 Pro workstation build, virtualization readiness, and host-platform validation for the rest of the lab stack
+- [Lab 2: Windows Host Networking, WSL, and VLAN Validation Lab](https://github.com/dallasm92/windows-hyperv-wsl-network-lab) - managed-switch context, Windows route and adapter review, WSL DNS troubleshooting, and layered connectivity validation
+- [Lab 3: GNS3 Networking Fundamentals Lab](https://github.com/dallasm92/gns3-networking-fundamentals-lab) - GNS3 bring-up, switching, ARP learning, subnetting boundaries, and first routing tests on the Hyper-V host
+- [Lab 4: GNS3 Default Gateway and Basic Routing Lab](https://github.com/dallasm92/gns3-default-gateway-routing-lab) - two-subnet routing with VPCS endpoints, an Alpine router, and default-gateway proof
+
+The sequence is meant to read left to right: build the Windows host, troubleshoot its networking layers, then move into packet-level networking behavior and routed lab design inside GNS3.
 
 ## Azure Lab Series
 ![Azure Lab Series progression](assets/azure-lab-series.png)
