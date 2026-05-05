@@ -55,9 +55,11 @@ Target roles: IT Support, Help Desk, Desktop Support
 | Linux and operations | [AI-Assisted Home Lab Operations](https://github.com/dallasm92/ai-assisted-home-lab-operations), [Lab Maintenance](https://github.com/dallasm92/lab-maintenance) |
 
 ## Azure Lab Series
+![Azure Lab Series progression](assets/azure-lab-series.png)
+
 - [Azure Blob Storage Lab](https://github.com/dallasm92/azure-lab-1-blob-storage) - Blob Storage deployment, private container workflow, SAS troubleshooting, and lifecycle management
 - [Azure Virtual Network and NSG Lab](https://github.com/dallasm92/azure-lab-2-virtual-network-nsg) - VNet segmentation, public/private subnet design, and SSH-focused NSG rule control
-- [Azure RBAC Lab](https://github.com/dallasm92/azure-rbac-lab) - Microsoft Entra group-based Reader and Contributor assignments with scope inheritance validation
+- [Azure Lab 3: RBAC](https://github.com/dallasm92/azure-lab-3-rbac) - Microsoft Entra group-based Reader and Contributor assignments with scope inheritance validation
 - [Azure Linux VM and Nginx Lab](https://github.com/dallasm92/azure-lab-4-linux-vm-nginx) - Ubuntu VM deployment, SSH key administration, NSG troubleshooting, and Nginx validation
 
 The series is structured to build one layer at a time: storage first, then networking, then access control, then a Linux workload deployed into the earlier network foundation.
@@ -98,7 +100,7 @@ The series is structured to build one layer at a time: storage first, then netwo
 - Cloud networking fundamentals and subnet security design:
   - [Azure Virtual Network and NSG Lab](https://github.com/dallasm92/azure-lab-2-virtual-network-nsg)
 - Azure access control and least-privilege role assignment:
-  - [Azure RBAC Lab](https://github.com/dallasm92/azure-rbac-lab)
+  - [Azure Lab 3: RBAC](https://github.com/dallasm92/azure-lab-3-rbac)
 - Azure Linux administration and cloud workload validation:
   - [Azure Linux VM and Nginx Lab](https://github.com/dallasm92/azure-lab-4-linux-vm-nginx)
 - Internal ITSM deployment, asset tracking, and ticket workflow:
@@ -123,7 +125,7 @@ The series is structured to build one layer at a time: storage first, then netwo
 - Azure Lab Series:
   - Azure Blob Storage Lab: https://github.com/dallasm92/azure-lab-1-blob-storage
   - Azure Virtual Network and NSG Lab: https://github.com/dallasm92/azure-lab-2-virtual-network-nsg
-  - Azure RBAC Lab: https://github.com/dallasm92/azure-rbac-lab
+  - Azure Lab 3: RBAC: https://github.com/dallasm92/azure-lab-3-rbac
   - Azure Linux VM and Nginx Lab: https://github.com/dallasm92/azure-lab-4-linux-vm-nginx
 - GLPI Internal ITSM Lab: https://github.com/dallasm92/glpi-internal-itsm-lab
 - GNS3 Networking Fundamentals Lab: https://github.com/dallasm92/gns3-networking-fundamentals-lab
