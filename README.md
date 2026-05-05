@@ -25,19 +25,6 @@ Target roles: IT Support, Help Desk, Desktop Support
 - [Windows and Networking Sequence](#windows-and-networking-sequence) - connected endpoint, host-networking, and GNS3 routing labs that build from workstation setup into subnet-level troubleshooting.
 - [Azure Lab Series](#azure-lab-series) - connected Azure labs covering storage, networking, RBAC, and Linux VM validation.
 
-## Suggested Pinned Repositories
-
-- `it-support-labs`
-- `ad-lab-windows-server-2022`
-- `glpi-internal-itsm-lab`
-- `gns3-networking-fundamentals-lab`
-- `azure-lab-2-virtual-network-nsg`
-- `home-lab-overview`
-
-Current live swap still recommended on GitHub:
-- unpin `azure-lab-1-blob-storage`
-- pin `gns3-networking-fundamentals-lab`
-
 ## Core Strengths
 - Structured troubleshooting with clear issue isolation, validation, resolution, and prevention notes
 - Cross-platform support fundamentals across Windows 11, Windows Server 2022, Linux, networking, and virtualization
