@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="760" viewBox="0 0 1400 760">
+  <rect width="1400" height="760" fill="#0f172a"/>
+  <rect x="0" y="0" width="1400" height="92" fill="#1d2d4a"/>
+  <rect x="78" y="118" width="190" height="10" rx="5" fill="#39d0c2"/>
+
+  <text x="78" y="194" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="50" font-weight="700">Dallas Morison</text>
+  <text x="78" y="254" fill="#9fcbff" font-family="Segoe UI, Arial, sans-serif" font-size="26">Entry-level IT Support Portfolio</text>
+
+  <text x="78" y="320" fill="#d4dee9" font-family="Segoe UI, Arial, sans-serif" font-size="22">Troubleshooting  •  Windows Server  •  Azure  •  Networking</text>
+  <text x="78" y="358" fill="#d4dee9" font-family="Segoe UI, Arial, sans-serif" font-size="22">Linux  •  Homelab Operations  •  Evidence-First Documentation</text>
+
+  <text x="78" y="420" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Featured proof areas</text>
+  <text x="78" y="468" fill="#d4dee9" font-family="Segoe UI, Arial, sans-serif" font-size="18">- Ticket-style IT support labs with issue isolation and validation</text>
+  <text x="78" y="506" fill="#d4dee9" font-family="Segoe UI, Arial, sans-serif" font-size="18">- Active Directory lab with Windows Server and client evidence</text>
+  <text x="78" y="544" fill="#d4dee9" font-family="Segoe UI, Arial, sans-serif" font-size="18">- GNS3 networking labs covering switching, ARP, and routing</text>
+  <text x="78" y="582" fill="#d4dee9" font-family="Segoe UI, Arial, sans-serif" font-size="18">- Azure lab series for storage, networking, RBAC, and Linux VM work</text>
+
+  <rect x="820" y="146" width="500" height="430" rx="26" fill="#243f71"/>
+  <text x="862" y="210" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Best first repos</text>
+  <text x="862" y="260" fill="#dfe9f8" font-family="Segoe UI, Arial, sans-serif" font-size="19">it-support-labs</text>
+  <text x="862" y="298" fill="#dfe9f8" font-family="Segoe UI, Arial, sans-serif" font-size="19">ad-lab-windows-server-2022</text>
+  <text x="862" y="336" fill="#dfe9f8" font-family="Segoe UI, Arial, sans-serif" font-size="19">glpi-internal-itsm-lab</text>
+  <text x="862" y="374" fill="#dfe9f8" font-family="Segoe UI, Arial, sans-serif" font-size="19">gns3-networking-fundamentals-lab</text>
+  <text x="862" y="412" fill="#dfe9f8" font-family="Segoe UI, Arial, sans-serif" font-size="19">azure-lab-2-virtual-network-nsg</text>
+  <text x="862" y="450" fill="#dfe9f8" font-family="Segoe UI, Arial, sans-serif" font-size="19">home-lab-overview</text>
+  <text x="862" y="500" fill="#9fcbff" font-family="Segoe UI, Arial, sans-serif" font-size="18">Seminole, FL</text>
+  <text x="862" y="540" fill="#9fcbff" font-family="Segoe UI, Arial, sans-serif" font-size="18">Target roles: IT Support  •  Help Desk</text>
+  <text x="862" y="572" fill="#9fcbff" font-family="Segoe UI, Arial, sans-serif" font-size="18">Desktop Support</text>
+</svg>

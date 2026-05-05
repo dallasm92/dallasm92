@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="820" viewBox="0 0 1600 820">
+  <rect width="1600" height="820" fill="#0f172a"/>
+  <text x="92" y="118" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="60" font-weight="700">Support and Identity Sequence</text>
+  <text x="92" y="168" fill="#c2ddff" font-family="Segoe UI, Arial, sans-serif" font-size="24">Portfolio path from troubleshooting reps to identity and ITSM workflow</text>
+
+  <rect x="92" y="220" width="430" height="520" rx="28" fill="#2f58c8"/>
+  <text x="132" y="286" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Lab 1</text>
+  <text x="132" y="346" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="700">IT Support Labs</text>
+  <text x="132" y="420" fill="#eef5ff" font-family="Segoe UI, Arial, sans-serif" font-size="22">Ticket-style labs</text>
+  <text x="132" y="460" fill="#eef5ff" font-family="Segoe UI, Arial, sans-serif" font-size="22">Windows, Linux, networking</text>
+  <text x="132" y="500" fill="#eef5ff" font-family="Segoe UI, Arial, sans-serif" font-size="22">Issue to troubleshooting to prevention</text>
+  <text x="132" y="678" fill="#9fcbff" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700">Troubleshooting baseline</text>
+
+  <rect x="586" y="220" width="430" height="520" rx="28" fill="#3566db"/>
+  <text x="626" y="286" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Lab 2</text>
+  <text x="626" y="346" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="700">Active Directory Lab</text>
+  <text x="626" y="420" fill="#eef5ff" font-family="Segoe UI, Arial, sans-serif" font-size="22">Windows Server 2022 + Hyper-V</text>
+  <text x="626" y="460" fill="#eef5ff" font-family="Segoe UI, Arial, sans-serif" font-size="22">Domain join, DNS, helpdesk reps</text>
+  <text x="626" y="500" fill="#eef5ff" font-family="Segoe UI, Arial, sans-serif" font-size="22">Validation-backed screenshots</text>
+  <text x="626" y="678" fill="#9fcbff" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700">Identity and endpoint admin</text>
+
+  <rect x="1080" y="220" width="430" height="520" rx="28" fill="#197f76"/>
+  <text x="1120" y="286" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Lab 3</text>
+  <text x="1120" y="346" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="700">GLPI Internal ITSM</text>
+  <text x="1120" y="420" fill="#eef5ff" font-family="Segoe UI, Arial, sans-serif" font-size="22">Assets, tickets, service catalog</text>
+  <text x="1120" y="460" fill="#eef5ff" font-family="Segoe UI, Arial, sans-serif" font-size="22">Internal DNS and backup workflow</text>
+  <text x="1120" y="500" fill="#eef5ff" font-family="Segoe UI, Arial, sans-serif" font-size="22">Operational support habits</text>
+  <text x="1120" y="678" fill="#9fcbff" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700">Help desk platform and process</text>
+</svg>

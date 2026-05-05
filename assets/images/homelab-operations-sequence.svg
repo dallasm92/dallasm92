@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="820" viewBox="0 0 1600 820">
+  <rect width="1600" height="820" fill="#0f172a"/>
+  <text x="92" y="118" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="60" font-weight="700">Homelab Operations Sequence</text>
+  <text x="92" y="168" fill="#c2ddff" font-family="Segoe UI, Arial, sans-serif" font-size="24">Public-safe architecture, runbooks, and maintenance workflow evidence</text>
+
+  <rect x="92" y="220" width="430" height="520" rx="28" fill="#2f58c8"/>
+  <text x="132" y="286" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Lab 1</text>
+  <text x="132" y="346" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="31" font-weight="700">Home Lab Overview</text>
+  <text x="132" y="420" fill="#eef5ff" font-family="Segoe UI, Arial, sans-serif" font-size="22">Architecture and platform model</text>
+  <text x="132" y="460" fill="#eef5ff" font-family="Segoe UI, Arial, sans-serif" font-size="22">Networking, services, security posture</text>
+  <text x="132" y="500" fill="#eef5ff" font-family="Segoe UI, Arial, sans-serif" font-size="22">Portfolio-safe environment baseline</text>
+  <text x="132" y="678" fill="#9fcbff" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700">Architecture context</text>
+
+  <rect x="586" y="220" width="430" height="520" rx="28" fill="#197f76"/>
+  <text x="626" y="286" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Lab 2</text>
+  <text x="626" y="346" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="31" font-weight="700">AI-Assisted Operations</text>
+  <text x="626" y="420" fill="#eef5ff" font-family="Segoe UI, Arial, sans-serif" font-size="22">Runbooks, monitoring, incident automation</text>
+  <text x="626" y="460" fill="#eef5ff" font-family="Segoe UI, Arial, sans-serif" font-size="22">Guardrailed AI-assisted admin workflow</text>
+  <text x="626" y="500" fill="#eef5ff" font-family="Segoe UI, Arial, sans-serif" font-size="22">Cross-host validation patterns</text>
+  <text x="626" y="678" fill="#9fcbff" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700">Operational discipline</text>
+
+  <rect x="1080" y="220" width="430" height="520" rx="28" fill="#3d4c65"/>
+  <text x="1120" y="286" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Lab 3</text>
+  <text x="1120" y="346" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="31" font-weight="700">Lab Maintenance</text>
+  <text x="1120" y="420" fill="#eef5ff" font-family="Segoe UI, Arial, sans-serif" font-size="22">Ansible playbooks and wrappers</text>
+  <text x="1120" y="460" fill="#eef5ff" font-family="Segoe UI, Arial, sans-serif" font-size="22">Safe update and health workflows</text>
+  <text x="1120" y="500" fill="#eef5ff" font-family="Segoe UI, Arial, sans-serif" font-size="22">Public-safe automation packaging</text>
+  <text x="1120" y="678" fill="#9fcbff" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700">Repeatable maintenance</text>
+</svg>

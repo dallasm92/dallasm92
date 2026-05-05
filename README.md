@@ -4,7 +4,8 @@ Entry-level IT Support candidate building public proof through hands-on labs in 
 Last reviewed: April 21, 2026
 
 Social preview asset:
-- [assets/social-preview.png](assets/social-preview.png)
+- [portfolio-overview.png](assets/images/portfolio-overview.png)
+- [portfolio-overview.svg](assets/images/portfolio-overview.svg)
 
 Location: Seminole, FL  
 Target roles: IT Support, Help Desk, Desktop Support
@@ -62,7 +63,7 @@ Current live swap still recommended on GitHub:
 | Linux and operations | [AI-Assisted Home Lab Operations](https://github.com/dallasm92/ai-assisted-home-lab-operations), [Lab Maintenance](https://github.com/dallasm92/lab-maintenance) |
 
 ## Support and Identity Sequence
-![Support and Identity Sequence](assets/support-and-identity-sequence.png)
+![Support and Identity Sequence](assets/images/support-identity-sequence.png)
 
 - [Lab 1: IT Support Labs](https://github.com/dallasm92/it-support-labs) - ticket-style troubleshooting across Windows, Linux, and networking with issue-to-prevention documentation
 - [Lab 2: Active Directory Lab](https://github.com/dallasm92/ad-lab-windows-server-2022) - Windows Server 2022 domain controller build, DNS, domain join, and helpdesk delegation evidence
@@ -71,7 +72,7 @@ Current live swap still recommended on GitHub:
 This sequence is meant to read as a support workflow progression: first the troubleshooting reps, then identity and Windows administration, then the service-desk platform used to organize internal support work.
 
 ## Homelab Operations Sequence
-![Homelab Operations Sequence](assets/homelab-operations-sequence.png)
+![Homelab Operations Sequence](assets/images/homelab-operations-sequence.png)
 
 - [Lab 1: Home Lab Overview](https://github.com/dallasm92/home-lab-overview) - public-safe architecture, networking, monitoring, and environment model documentation
 - [Lab 2: AI-Assisted Home Lab Operations](https://github.com/dallasm92/ai-assisted-home-lab-operations) - runbooks, monitoring workflows, backup patterns, and incident-minded automation with explicit guardrails
@@ -80,7 +81,7 @@ This sequence is meant to read as a support workflow progression: first the trou
 This sequence is meant to show how the lab is designed and then operated over time: architecture first, day-to-day operational discipline second, and reusable maintenance automation third.
 
 ## Windows and Networking Sequence
-![Windows and Networking Sequence](assets/windows-networking-sequence.png)
+![Windows and Networking Sequence](assets/images/workstation-to-routed-lab-sequence.png)
 
 - [Lab 1: PC Build - MAIN-PC](https://github.com/dallasm92/pc-build-main-pc) - Windows 11 Pro workstation build, virtualization readiness, and host-platform validation for the rest of the lab stack
 - [Lab 2: Windows Host Networking, WSL, and VLAN Validation Lab](https://github.com/dallasm92/windows-hyperv-wsl-network-lab) - managed-switch context, Windows route and adapter review, WSL DNS troubleshooting, and layered connectivity validation

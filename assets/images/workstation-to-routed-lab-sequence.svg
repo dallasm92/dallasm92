@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="820" viewBox="0 0 1600 820">
+  <rect width="1600" height="820" fill="#0f172a"/>
+  <rect x="0" y="0" width="1600" height="820" fill="#17233a"/>
+  <rect x="88" y="82" width="210" height="10" rx="5" fill="#76d7ff"/>
+
+  <text x="88" y="138" fill="#8fd3ff" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Windows and Networking Sequence</text>
+  <text x="88" y="226" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="60" font-weight="700">Workstation to Routed Lab</text>
+  <text x="88" y="300" fill="#c2ddff" font-family="Segoe UI, Arial, sans-serif" font-size="24">Four connected repos covering platform, troubleshooting, and routing fundamentals</text>
+
+  <rect x="88" y="390" width="290" height="300" rx="24" fill="#23457b"/>
+  <text x="124" y="446" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">1. MAIN-PC Build</text>
+  <text x="124" y="500" fill="#e5eefc" font-family="Segoe UI, Arial, sans-serif" font-size="21">Windows 11 Pro host</text>
+  <text x="124" y="538" fill="#e5eefc" font-family="Segoe UI, Arial, sans-serif" font-size="21">Hyper-V readiness</text>
+  <text x="124" y="576" fill="#e5eefc" font-family="Segoe UI, Arial, sans-serif" font-size="21">Platform validation</text>
+
+  <line x1="378" y1="540" x2="440" y2="540" stroke="#8fc4ff" stroke-width="10" stroke-linecap="round"/>
+  <polygon points="440,540 410,522 410,558" fill="#8fc4ff"/>
+
+  <rect x="446" y="390" width="290" height="300" rx="24" fill="#23457b"/>
+  <text x="482" y="446" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">2. Host Networking</text>
+  <text x="482" y="500" fill="#e5eefc" font-family="Segoe UI, Arial, sans-serif" font-size="21">Hyper-V adapters</text>
+  <text x="482" y="538" fill="#e5eefc" font-family="Segoe UI, Arial, sans-serif" font-size="21">WSL + DNS</text>
+  <text x="482" y="576" fill="#e5eefc" font-family="Segoe UI, Arial, sans-serif" font-size="21">VLAN evidence</text>
+
+  <line x1="736" y1="540" x2="798" y2="540" stroke="#8fc4ff" stroke-width="10" stroke-linecap="round"/>
+  <polygon points="798,540 768,522 768,558" fill="#8fc4ff"/>
+
+  <rect x="804" y="390" width="290" height="300" rx="24" fill="#23457b"/>
+  <text x="840" y="446" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">3. GNS3 Fundamentals</text>
+  <text x="840" y="500" fill="#e5eefc" font-family="Segoe UI, Arial, sans-serif" font-size="21">Bring-up</text>
+  <text x="840" y="538" fill="#e5eefc" font-family="Segoe UI, Arial, sans-serif" font-size="21">Switching + ARP</text>
+  <text x="840" y="576" fill="#e5eefc" font-family="Segoe UI, Arial, sans-serif" font-size="21">Basic routing</text>
+
+  <line x1="1094" y1="540" x2="1156" y2="540" stroke="#8fc4ff" stroke-width="10" stroke-linecap="round"/>
+  <polygon points="1156,540 1126,522 1126,558" fill="#8fc4ff"/>
+
+  <rect x="1162" y="390" width="330" height="300" rx="24" fill="#2f58b8"/>
+  <text x="1198" y="446" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">4. Routing Lab</text>
+  <text x="1198" y="500" fill="#e5eefc" font-family="Segoe UI, Arial, sans-serif" font-size="21">Default gateway</text>
+  <text x="1198" y="538" fill="#e5eefc" font-family="Segoe UI, Arial, sans-serif" font-size="21">Inter-subnet traffic</text>
+  <text x="1198" y="576" fill="#e5eefc" font-family="Segoe UI, Arial, sans-serif" font-size="21">ARP proof</text>
+</svg>
