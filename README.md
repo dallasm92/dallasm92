@@ -19,6 +19,7 @@ Target roles: IT Support, Help Desk, Desktop Support
 - [Active Directory Lab](https://github.com/dallasm92/ad-lab-windows-server-2022) - Windows Server 2022 domain controller, DNS, Windows 11 domain join, helpdesk user/group validation, and troubleshooting evidence.
 - [GLPI Internal ITSM Lab](https://github.com/dallasm92/glpi-internal-itsm-lab) - internal ITSM deployment with assets, tickets, service catalog, DNS validation, and backup workflow.
 - [Support and Identity Sequence](#support-and-identity-sequence) - connected support, Active Directory, and ITSM labs that build from ticket workflow into identity administration and service-desk operations.
+- [Homelab Operations Sequence](#homelab-operations-sequence) - connected architecture, operations, and maintenance repos that show how the lab is designed, run, and kept healthy.
 - [GNS3 Networking Fundamentals Lab](https://github.com/dallasm92/gns3-networking-fundamentals-lab) - GNS3 bring-up, switching, ARP, subnetting, and basic routing evidence on a Windows Hyper-V host.
 - [Windows and Networking Sequence](#windows-and-networking-sequence) - connected endpoint, host-networking, and GNS3 routing labs that build from workstation setup into subnet-level troubleshooting.
 - [Azure Lab Series](#azure-lab-series) - connected Azure labs covering storage, networking, RBAC, and Linux VM validation.
@@ -64,6 +65,15 @@ Target roles: IT Support, Help Desk, Desktop Support
 - [Lab 3: GLPI Internal ITSM Lab](https://github.com/dallasm92/glpi-internal-itsm-lab) - internal ITSM deployment with asset records, ticket workflow, service catalog validation, and backup discipline
 
 This sequence is meant to read as a support workflow progression: first the troubleshooting reps, then identity and Windows administration, then the service-desk platform used to organize internal support work.
+
+## Homelab Operations Sequence
+![Homelab Operations Sequence](assets/homelab-operations-sequence.png)
+
+- [Lab 1: Home Lab Overview](https://github.com/dallasm92/home-lab-overview) - public-safe architecture, networking, monitoring, and environment model documentation
+- [Lab 2: AI-Assisted Home Lab Operations](https://github.com/dallasm92/ai-assisted-home-lab-operations) - runbooks, monitoring workflows, backup patterns, and incident-minded automation with explicit guardrails
+- [Lab 3: Lab Maintenance](https://github.com/dallasm92/lab-maintenance) - sanitized Ansible maintenance playbooks, wrappers, and safe Linux host update workflows
+
+This sequence is meant to show how the lab is designed and then operated over time: architecture first, day-to-day operational discipline second, and reusable maintenance automation third.
 
 ## Windows and Networking Sequence
 ![Windows and Networking Sequence](assets/windows-networking-sequence.png)
