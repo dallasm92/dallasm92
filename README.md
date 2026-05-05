@@ -33,6 +33,10 @@ Target roles: IT Support, Help Desk, Desktop Support
 - `azure-lab-2-virtual-network-nsg`
 - `home-lab-overview`
 
+Current live swap still recommended on GitHub:
+- unpin `azure-lab-1-blob-storage`
+- pin `gns3-networking-fundamentals-lab`
+
 ## Core Strengths
 - Structured troubleshooting with clear issue isolation, validation, resolution, and prevention notes
 - Cross-platform support fundamentals across Windows 11, Windows Server 2022, Linux, networking, and virtualization
