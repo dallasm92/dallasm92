@@ -15,15 +15,15 @@ Target roles: IT Support, Help Desk, Desktop Support
 - [IT Support Labs](https://github.com/dallasm92/it-support-labs) - ticket-style troubleshooting across Windows, Linux, and networking.
 - [Active Directory Lab](https://github.com/dallasm92/ad-lab-windows-server-2022) - Windows Server 2022 domain controller, DNS, Windows 11 domain join, helpdesk user/group validation, and troubleshooting evidence.
 - [GLPI Internal ITSM Lab](https://github.com/dallasm92/glpi-internal-itsm-lab) - internal ITSM deployment with assets, tickets, service catalog, DNS validation, and backup workflow.
+- [GNS3 Networking Fundamentals Lab](https://github.com/dallasm92/gns3-networking-fundamentals-lab) - GNS3 bring-up, switching, ARP, subnetting, and basic routing evidence on a Windows Hyper-V host.
 - [Azure Lab Series](#azure-lab-series) - connected Azure labs covering storage, networking, RBAC, and Linux VM validation.
-- [Home Lab Overview](https://github.com/dallasm92/home-lab-overview) - broader architecture, monitoring, DNS, backup, and operations patterns.
 
 ## Suggested Pinned Repositories
 
 - `it-support-labs`
 - `ad-lab-windows-server-2022`
 - `glpi-internal-itsm-lab`
-- `azure-lab-1-blob-storage`
+- `gns3-networking-fundamentals-lab`
 - `azure-lab-2-virtual-network-nsg`
 - `home-lab-overview`
 
@@ -35,6 +35,7 @@ Target roles: IT Support, Help Desk, Desktop Support
 ## Recruiter Guide
 - For direct support troubleshooting proof, start with [IT Support Labs](https://github.com/dallasm92/it-support-labs).
 - For Windows server and identity work, open [Active Directory Lab](https://github.com/dallasm92/ad-lab-windows-server-2022).
+- For hands-on networking fundamentals, start with [GNS3 Networking Fundamentals Lab](https://github.com/dallasm92/gns3-networking-fundamentals-lab) and then the narrower [GNS3 Default Gateway and Basic Routing Lab](https://github.com/dallasm92/gns3-default-gateway-routing-lab).
 - For cloud fundamentals, use the [Azure Lab Series](#azure-lab-series).
 - For internal service rollout, ticketing, and asset-management workflow, use [GLPI Internal ITSM Lab](https://github.com/dallasm92/glpi-internal-itsm-lab).
 - For broader operations and architecture maturity, use [Home Lab Overview](https://github.com/dallasm92/home-lab-overview) and [AI-Assisted Home Lab Operations](https://github.com/dallasm92/ai-assisted-home-lab-operations).
@@ -47,7 +48,7 @@ Target roles: IT Support, Help Desk, Desktop Support
 | Windows Server / Active Directory | [Active Directory Lab](https://github.com/dallasm92/ad-lab-windows-server-2022) |
 | ITSM / help desk workflow | [GLPI Internal ITSM Lab](https://github.com/dallasm92/glpi-internal-itsm-lab) |
 | Azure fundamentals | [Azure Lab Series](#azure-lab-series) |
-| Networking and DNS | [Azure VNet/NSG Lab](https://github.com/dallasm92/azure-lab-2-virtual-network-nsg), [Home Lab Overview](https://github.com/dallasm92/home-lab-overview) |
+| Networking and DNS | [GNS3 Networking Fundamentals Lab](https://github.com/dallasm92/gns3-networking-fundamentals-lab), [Azure VNet/NSG Lab](https://github.com/dallasm92/azure-lab-2-virtual-network-nsg), [Home Lab Overview](https://github.com/dallasm92/home-lab-overview) |
 | Linux and operations | [AI-Assisted Home Lab Operations](https://github.com/dallasm92/ai-assisted-home-lab-operations), [Lab Maintenance](https://github.com/dallasm92/lab-maintenance) |
 
 ## Azure Lab Series
@@ -84,6 +85,9 @@ The series is structured to build one layer at a time: storage first, then netwo
   - [Active Directory Lab](https://github.com/dallasm92/ad-lab-windows-server-2022)
 - Endpoint build, provisioning, and validation:
   - [PC Build - MAIN-PC](https://github.com/dallasm92/pc-build-main-pc)
+- GNS3-based networking fundamentals and routing validation:
+  - [GNS3 Networking Fundamentals Lab](https://github.com/dallasm92/gns3-networking-fundamentals-lab)
+  - [GNS3 Default Gateway and Basic Routing Lab](https://github.com/dallasm92/gns3-default-gateway-routing-lab)
 - Windows host networking, WSL, and layered connectivity troubleshooting:
   - [Windows Host Networking, WSL, and VLAN Validation Lab](https://github.com/dallasm92/windows-hyperv-wsl-network-lab)
 - Cloud storage fundamentals and access-control troubleshooting:
@@ -119,6 +123,8 @@ The series is structured to build one layer at a time: storage first, then netwo
   - Azure RBAC Lab: https://github.com/dallasm92/azure-rbac-lab
   - Azure Linux VM and Nginx Lab: https://github.com/dallasm92/azure-lab-4-linux-vm-nginx
 - GLPI Internal ITSM Lab: https://github.com/dallasm92/glpi-internal-itsm-lab
+- GNS3 Networking Fundamentals Lab: https://github.com/dallasm92/gns3-networking-fundamentals-lab
+- GNS3 Default Gateway and Basic Routing Lab: https://github.com/dallasm92/gns3-default-gateway-routing-lab
 - Windows Host Networking, WSL, and VLAN Validation Lab: https://github.com/dallasm92/windows-hyperv-wsl-network-lab
 - AI-Assisted Home Lab Operations (automation + security + runbooks): https://github.com/dallasm92/ai-assisted-home-lab-operations
 - Home Lab Overview: https://github.com/dallasm92/home-lab-overview
@@ -130,7 +136,7 @@ The series is structured to build one layer at a time: storage first, then netwo
 
 ## Evidence of Hands-On Work
 - 8 ticket-style labs currently published in `it-support-labs`
-- Cross-platform troubleshooting coverage: Windows labs (4), Linux labs (3), Networking labs (1)
+- Cross-platform troubleshooting coverage: Windows labs (4), Linux labs (3), Networking labs (3)
 - Active Directory evidence includes 100+ screenshots across server build, AD DS/DNS, client join, helpdesk group validation, and policy troubleshooting.
 - Azure evidence includes portal screenshots for storage, VNet/NSG, RBAC, and a documented Linux VM/Nginx workflow.
 
