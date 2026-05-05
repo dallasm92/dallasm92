@@ -3,6 +3,9 @@
 Entry-level IT Support candidate building public proof through hands-on labs in troubleshooting, Windows Server, Azure, networking, Linux, and security-conscious homelab operations.
 Last reviewed: April 21, 2026
 
+Social preview asset:
+- [assets/social-preview.png](assets/social-preview.png)
+
 Location: Seminole, FL  
 Target roles: IT Support, Help Desk, Desktop Support
 
