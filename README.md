@@ -18,6 +18,7 @@ Target roles: IT Support, Help Desk, Desktop Support
 - [IT Support Labs](https://github.com/dallasm92/it-support-labs) - ticket-style troubleshooting across Windows, Linux, and networking.
 - [Active Directory Lab](https://github.com/dallasm92/ad-lab-windows-server-2022) - Windows Server 2022 domain controller, DNS, Windows 11 domain join, helpdesk user/group validation, and troubleshooting evidence.
 - [GLPI Internal ITSM Lab](https://github.com/dallasm92/glpi-internal-itsm-lab) - internal ITSM deployment with assets, tickets, service catalog, DNS validation, and backup workflow.
+- [Support and Identity Sequence](#support-and-identity-sequence) - connected support, Active Directory, and ITSM labs that build from ticket workflow into identity administration and service-desk operations.
 - [GNS3 Networking Fundamentals Lab](https://github.com/dallasm92/gns3-networking-fundamentals-lab) - GNS3 bring-up, switching, ARP, subnetting, and basic routing evidence on a Windows Hyper-V host.
 - [Windows and Networking Sequence](#windows-and-networking-sequence) - connected endpoint, host-networking, and GNS3 routing labs that build from workstation setup into subnet-level troubleshooting.
 - [Azure Lab Series](#azure-lab-series) - connected Azure labs covering storage, networking, RBAC, and Linux VM validation.
@@ -54,6 +55,15 @@ Target roles: IT Support, Help Desk, Desktop Support
 | Azure fundamentals | [Azure Lab Series](#azure-lab-series) |
 | Networking and DNS | [GNS3 Networking Fundamentals Lab](https://github.com/dallasm92/gns3-networking-fundamentals-lab), [Azure VNet/NSG Lab](https://github.com/dallasm92/azure-lab-2-virtual-network-nsg), [Home Lab Overview](https://github.com/dallasm92/home-lab-overview) |
 | Linux and operations | [AI-Assisted Home Lab Operations](https://github.com/dallasm92/ai-assisted-home-lab-operations), [Lab Maintenance](https://github.com/dallasm92/lab-maintenance) |
+
+## Support and Identity Sequence
+![Support and Identity Sequence](assets/support-and-identity-sequence.png)
+
+- [Lab 1: IT Support Labs](https://github.com/dallasm92/it-support-labs) - ticket-style troubleshooting across Windows, Linux, and networking with issue-to-prevention documentation
+- [Lab 2: Active Directory Lab](https://github.com/dallasm92/ad-lab-windows-server-2022) - Windows Server 2022 domain controller build, DNS, domain join, and helpdesk delegation evidence
+- [Lab 3: GLPI Internal ITSM Lab](https://github.com/dallasm92/glpi-internal-itsm-lab) - internal ITSM deployment with asset records, ticket workflow, service catalog validation, and backup discipline
+
+This sequence is meant to read as a support workflow progression: first the troubleshooting reps, then identity and Windows administration, then the service-desk platform used to organize internal support work.
 
 ## Windows and Networking Sequence
 ![Windows and Networking Sequence](assets/windows-networking-sequence.png)
