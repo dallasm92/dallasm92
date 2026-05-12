@@ -19,6 +19,7 @@ Target roles: IT Support, Help Desk, Desktop Support
 - [IT Support Labs](https://github.com/dallasm92/it-support-labs) - ticket-style troubleshooting across Windows, Linux, and networking.
 - [Active Directory Lab](https://github.com/dallasm92/ad-lab-windows-server-2022) - Windows Server 2022 domain controller, DNS, Windows 11 domain join, helpdesk user/group validation, and troubleshooting evidence.
 - [GLPI Internal ITSM Lab](https://github.com/dallasm92/glpi-internal-itsm-lab) - internal ITSM deployment with assets, tickets, service catalog, DNS validation, and backup workflow.
+- [Home Lab Network Segmentation](https://github.com/dallasm92/home-lab-network-segmentation) - first staged move away from a flat home LAN into a routed `OPNsense` lab segment with DHCP, routing, and selective-access validation.
 - [Support and Identity Sequence](#support-and-identity-sequence) - connected support, Active Directory, and ITSM labs that build from ticket workflow into identity administration and service-desk operations.
 - [Homelab Operations Sequence](#homelab-operations-sequence) - connected architecture, operations, and maintenance repos that show how the lab is designed, run, and kept healthy.
 - [GNS3 Networking Fundamentals Lab](https://github.com/dallasm92/gns3-networking-fundamentals-lab) - GNS3 bring-up, switching, ARP, subnetting, and basic routing evidence on a Windows Hyper-V host.
@@ -34,6 +35,7 @@ Target roles: IT Support, Help Desk, Desktop Support
 - For direct support troubleshooting proof, start with [IT Support Labs](https://github.com/dallasm92/it-support-labs).
 - For Windows server and identity work, open [Active Directory Lab](https://github.com/dallasm92/ad-lab-windows-server-2022).
 - For hands-on networking fundamentals, start with [GNS3 Networking Fundamentals Lab](https://github.com/dallasm92/gns3-networking-fundamentals-lab) and then the narrower [GNS3 Default Gateway and Basic Routing Lab](https://github.com/dallasm92/gns3-default-gateway-routing-lab).
+- For real homelab firewall and segmentation work, use [Home Lab Network Segmentation](https://github.com/dallasm92/home-lab-network-segmentation).
 - For cloud fundamentals, use the [Azure Lab Series](#azure-lab-series).
 - For internal service rollout, ticketing, and asset-management workflow, use [GLPI Internal ITSM Lab](https://github.com/dallasm92/glpi-internal-itsm-lab).
 - For broader operations and architecture maturity, use [Home Lab Overview](https://github.com/dallasm92/home-lab-overview) and [AI-Assisted Home Lab Operations](https://github.com/dallasm92/ai-assisted-home-lab-operations).
@@ -46,7 +48,7 @@ Target roles: IT Support, Help Desk, Desktop Support
 | Windows Server / Active Directory | [Active Directory Lab](https://github.com/dallasm92/ad-lab-windows-server-2022) |
 | ITSM / help desk workflow | [GLPI Internal ITSM Lab](https://github.com/dallasm92/glpi-internal-itsm-lab) |
 | Azure fundamentals | [Azure Lab Series](#azure-lab-series) |
-| Networking and DNS | [GNS3 Networking Fundamentals Lab](https://github.com/dallasm92/gns3-networking-fundamentals-lab), [Azure VNet/NSG Lab](https://github.com/dallasm92/azure-lab-2-virtual-network-nsg), [Home Lab Overview](https://github.com/dallasm92/home-lab-overview) |
+| Networking and DNS | [GNS3 Networking Fundamentals Lab](https://github.com/dallasm92/gns3-networking-fundamentals-lab), [Home Lab Network Segmentation](https://github.com/dallasm92/home-lab-network-segmentation), [Azure VNet/NSG Lab](https://github.com/dallasm92/azure-lab-2-virtual-network-nsg), [Home Lab Overview](https://github.com/dallasm92/home-lab-overview) |
 | Linux and operations | [AI-Assisted Home Lab Operations](https://github.com/dallasm92/ai-assisted-home-lab-operations), [Lab Maintenance](https://github.com/dallasm92/lab-maintenance) |
 
 ## Support and Identity Sequence
@@ -62,10 +64,11 @@ This sequence is meant to read as a support workflow progression: first the trou
 ![Homelab Operations Sequence](assets/images/homelab-operations-sequence.png)
 
 - [Lab 1: Home Lab Overview](https://github.com/dallasm92/home-lab-overview) - public-safe architecture, networking, monitoring, and environment model documentation
-- [Lab 2: AI-Assisted Home Lab Operations](https://github.com/dallasm92/ai-assisted-home-lab-operations) - runbooks, monitoring workflows, backup patterns, and incident-minded automation with explicit guardrails
-- [Lab 3: Lab Maintenance](https://github.com/dallasm92/lab-maintenance) - sanitized Ansible maintenance playbooks, wrappers, and safe Linux host update workflows
+- [Lab 2: Home Lab Network Segmentation](https://github.com/dallasm92/home-lab-network-segmentation) - staged `OPNsense` firewall rollout showing baseline capture, safe recovery, routed-segment validation, and selective access back to the old LAN
+- [Lab 3: AI-Assisted Home Lab Operations](https://github.com/dallasm92/ai-assisted-home-lab-operations) - runbooks, monitoring workflows, backup patterns, and incident-minded automation with explicit guardrails
+- [Lab 4: Lab Maintenance](https://github.com/dallasm92/lab-maintenance) - sanitized Ansible maintenance playbooks, wrappers, and safe Linux host update workflows
 
-This sequence is meant to show how the lab is designed and then operated over time: architecture first, day-to-day operational discipline second, and reusable maintenance automation third.
+This sequence is meant to show how the lab is designed, segmented, and then operated over time: architecture first, routed-boundary and access-control work second, day-to-day operational discipline third, and reusable maintenance automation fourth.
 
 ## Windows and Networking Sequence
 ![Windows and Networking Sequence](assets/images/workstation-to-routed-lab-sequence.png)
@@ -130,6 +133,7 @@ The series is structured to build one layer at a time: storage first, then netwo
   - [GLPI Internal ITSM Lab](https://github.com/dallasm92/glpi-internal-itsm-lab)
 - Linux, monitoring, and operations discipline:
   - [Home Lab Overview](https://github.com/dallasm92/home-lab-overview)
+  - [Home Lab Network Segmentation](https://github.com/dallasm92/home-lab-network-segmentation)
   - [AI-Assisted Home Lab Operations](https://github.com/dallasm92/ai-assisted-home-lab-operations)
 
 ## Best Evidence Inside The Homelab Repos
@@ -156,6 +160,7 @@ The series is structured to build one layer at a time: storage first, then netwo
 - Windows Host Networking, WSL, and VLAN Validation Lab: https://github.com/dallasm92/windows-hyperv-wsl-network-lab
 - AI-Assisted Home Lab Operations (automation + security + runbooks): https://github.com/dallasm92/ai-assisted-home-lab-operations
 - Home Lab Overview: https://github.com/dallasm92/home-lab-overview
+- Home Lab Network Segmentation: https://github.com/dallasm92/home-lab-network-segmentation
 - AD Lab (Windows Server 2022): https://github.com/dallasm92/ad-lab-windows-server-2022
 - Main PC Build and Validation: https://github.com/dallasm92/pc-build-main-pc
 - AI-Assisted IT Support Workflows: https://github.com/dallasm92/ai-assisted-it-support
